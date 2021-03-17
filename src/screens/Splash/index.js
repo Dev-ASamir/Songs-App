@@ -11,7 +11,7 @@ const Splash = () => {
     setTimeout(() => {
       navigation.reset({ routes: [{ name: 'SongsList' }] });
       // Check Update
-    }, 0);
+    }, 2000);
   }, []);
 
   return (
