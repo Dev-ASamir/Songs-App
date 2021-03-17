@@ -1,4 +1,4 @@
-# marvel-characters
+# Songs-App
 
 Songs App (Demo) for discovering Songs, Search and add your songs to favorite .
 
